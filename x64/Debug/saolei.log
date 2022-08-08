@@ -1,0 +1,5 @@
+﻿  main.cpp
+  saolei.cpp
+D:\Visual Studio 2022\saolei\saolei.cpp(14,12): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  saolei.vcxproj -> D:\Visual Studio 2022\saolei\x64\Debug\saolei.exe
